@@ -24,20 +24,4 @@ This is my [ZMK](https://zmk.dev) configuration for my
 
 ### Aurora Corne
 
-<details>
-<summary>here</summary>
-
-<img src="https://github.com/stiliajohny/zmk-config-aurora-corne-1.0-nice-nano/blob/master/.assets/zmk-aurora-corne-1.0-nice-nano.jpg?raw=true" width=50%>
-
 ![Keymap](./keymap-drawer/splitkb_aurora_corne.svg)
-
-</details>
-
-### Kyria
-
-<details>
-<summary>here</summary>
-
-![Keymap](./keymap-drawer/kyria.svg)
-
-</details>
