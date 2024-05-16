@@ -58,7 +58,7 @@
 
         QWERTY {
             bindings = <
-&kp TILDE        &ht NUMBER_1 Q    &ht NUMBER_2 W      &ht NUMBER_3 E           &ht NUMBER_4 R      &ht NUMBER_5 T         &ht NUMBER_6 Y  &ht NUMBER_7 U  &ht NUMBER_8 I     &ht NUMBER_9 O  &ht NUMBER_0 P             &mt DELETE BACKSPACE
+&kp GRAVE        &ht NUMBER_1 Q    &ht NUMBER_2 W      &ht NUMBER_3 E           &ht NUMBER_4 R      &ht NUMBER_5 T         &ht NUMBER_6 Y  &ht NUMBER_7 U  &ht NUMBER_8 I     &ht NUMBER_9 O  &ht NUMBER_0 P             &mt DELETE BACKSPACE
 &ht LS(TAB) TAB  &mt LEFT_SHIFT A  &mt LEFT_CONTROL S  &mt LEFT_ALT D           &mt LGUI F          &lt 1 G                &kp H           &mt RGUI J      &mt RIGHT_ALT K    &mt RCTRL L     &mt RIGHT_SHIFT SEMICOLON  &kp ESCAPE
 &kp LEFT_SHIFT   &kp Z             &kp X               &kp C                    &kp V               &kp B                  &kp N           &kp M           &kp COMMA          &kp DOT         &kp FSLH                   &none
                                                        &ht C_PLAY_PAUSE C_MUTE  &mt LEFT_GUI SPACE  &ht LS(ENTER) ENTER    &mo 2           &mo 3           &ht C_STOP C_STOP
