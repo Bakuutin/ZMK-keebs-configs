@@ -1,7 +1,7 @@
 layout: {qmk_keyboard: corne_rotated, qmk_layout: LAYOUT_split_3x6_3}
 layers:
   QWERTY:
-  - '~'
+  - '`'
   - {t: Q, h: '1'}
   - {t: W, h: '2'}
   - {t: E, h: '3'}
@@ -13,7 +13,7 @@ layers:
   - {t: O, h: '9'}
   - {t: P, h: '0'}
   - {t: BACKSPACE, h: DELETE}
-  - {t: TAB, h: LS(TAB)}
+  - {t: TAB, h: Sft+ TAB}
   - {t: A, h: LEFT SHIFT}
   - {t: S, h: LEFT CONTROL}
   - {t: D, h: LEFT ALT}
@@ -39,7 +39,7 @@ layers:
   - ''
   - {t: MUTE, h: PLAY PAUSE}
   - {t: SPACE, h: LEFT GUI}
-  - {t: ENTER, h: LS(ENTER)}
+  - {t: ENTER, h: Sft+ ENTER}
   - characters
   - Settings
   - {t: STOP, h: STOP}
@@ -103,7 +103,7 @@ layers:
   - ''
   - ''
   - ''''
-  - LS(DQT)
+  - Sft+ "
   - +
   - ''
   - (
